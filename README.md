@@ -1,2 +1,2 @@
-# jinniannian.github.io
+# Jinniannian.github.io
 myblog
